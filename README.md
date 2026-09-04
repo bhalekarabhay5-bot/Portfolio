@@ -39,13 +39,6 @@ My portfolio and software development projects.
 - 💻 GitHub: https://github.com/bhalekarabhay5-bot
 - 🌐 Portfolio: https://bhalekarabhay5-bot.github.io/Portfolio/
 
-## Connect
-
-LinkedIn
-
-Email
-
-Portfolio
 
        
    

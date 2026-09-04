@@ -24,7 +24,7 @@ My portfolio and software development projects.
 ### Portfolio Website
 - Personal portfolio website
 - HTML, CSS, JavaScript
-- Live Demo: https://yourusername.github.io/Portfolio
+
 
 ### Student Management System
 - Java + MySQL
@@ -32,6 +32,12 @@ My portfolio and software development projects.
 
 ### Calculator
 - HTML, CSS, JavaScript
+## 📞 Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/abhay-bhalekar-4a1485396
+- 📧 Email: bhalekarabhay365@gmail.com
+- 💻 GitHub: https://github.com/bhalekarabhay5-bot
+- 🌐 Portfolio: https://bhalekarabhay5-bot.github.io/Portfolio/
 
 ## Connect
 

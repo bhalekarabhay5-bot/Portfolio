@@ -19,6 +19,19 @@ My portfolio and software development projects.
 - JavaScript
 - Git
 - GitHub
+- ## 🚀 Projects
+
+### Portfolio Website
+- Personal portfolio website
+- HTML, CSS, JavaScript
+- Live Demo: https://yourusername.github.io/Portfolio
+
+### Student Management System
+- Java + MySQL
+- CRUD Operations
+
+### Calculator
+- HTML, CSS, JavaScript
 
 ## Connect
 
